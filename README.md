@@ -1,9 +1,10 @@
-**Hi there** 👋
-
-I'm a CS student based in Las Vegas, NV. A lot of my open source work is focused on data structures, algorithms and machine learning.
-
-If you need help with my open source work, or you need help with private code, you can [contact me](mailto:mayafluis@gmail.com) to discuss paid work.
-
-## What I'm up to
-
-Currently I'm focusing on advanced data structures such as kd-trees and machine learning.
+<p align="center">
+  <br><br>
+  <samp>
+    :wave: Hi! I'm a CS student @ UNLV.
+    <br>My current work focuses on <em>advanced data structures</em>,
+      <br><em>algorithms</em>, and <em>machine learning</em>.
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <br><br>:coffee: Wanna chat? :point_right: Contact me on Discord @icantcode#5581
+  </samp>
+</p>
