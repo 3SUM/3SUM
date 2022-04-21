@@ -1,4 +1,4 @@
 # Luis Maya Aranda
 I code sometimes
 
-:coffee: Contact me on Discord @icantcode#9343
+:coffee: Contact me on Discord @icantcode#7527
