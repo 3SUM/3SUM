@@ -1,6 +1,6 @@
 # Luis Maya Aranda
 
-[![3SUM's GitHub stats](https://github-readme-stats.vercel.app/api?username=3SUM)](https://github.com/anuraghazra/github-readme-stats)
+![3SUM's GitHub stats](https://github-readme-stats.vercel.app/api?username=3SUM&show_icons=true&theme=radical)
 
 I code sometimes
 
