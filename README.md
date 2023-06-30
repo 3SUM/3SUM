@@ -4,4 +4,4 @@
 
 I code sometimes
 
-:coffee: Contact me on Discord @icantcode#7527
+:coffee: Contact me on Discord @quick.sort
