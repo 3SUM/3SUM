@@ -2,6 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=3SUM&color=blueviolet)
 
-I code sometimes
+someone please hire me
 
-:coffee: Contact me on Discord @quick.sort
+:coffee: Contact me on Discord @im.upset
