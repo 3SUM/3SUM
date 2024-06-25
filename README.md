@@ -4,4 +4,4 @@
 
 i code sometimes
 
-:coffee: Contact me on Discord @im.upset
+:coffee: Contact me on **Discord @v0.3**
